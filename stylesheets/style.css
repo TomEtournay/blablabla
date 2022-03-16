@@ -633,13 +633,13 @@ header{
 
 
 .profil_image{
-	width: 200px;
-	height: 200px;
 	display: flex;
 }
 
 .profil_image1{
 	border-radius: 10px;
+	width: 200px;
+	height: 200px;
 }
 
 
