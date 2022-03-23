@@ -592,7 +592,7 @@ header{
 }
 
 .uncommun{
-	background: #EAEAEA;
+	background: #E4AEC5;
 }
 
 .super_rare{
@@ -705,7 +705,7 @@ header{
 
 .big_social_media_block{
 	display: flex;
-	gap: 8.681%;
+	gap: 100px;
 	justify-content: center;
 }
 
